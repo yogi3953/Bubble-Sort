@@ -7,3 +7,5 @@ If the first element is greater than the second, swap them.
 Move to the next pair and repeat step 2.
 Continue this process for all elements in the array.
 Repeat the entire pass until no more swaps are needed.
+# Execution
+![image](https://github.com/user-attachments/assets/f98513ae-e5ea-47f6-b27c-907ebf9c62b4)
